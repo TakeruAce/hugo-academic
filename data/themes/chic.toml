@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Chic"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#50aba9"
+primary_light = "#74BDBB"
+primary_dark = "#418A88"
+
+# Menu
+menu_primary = "#4b4238"
+menu_text = "rgba(255,255,255,0.6)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "#fff"
+
+# Home sections
+background = "#4b4238"
+home_section_odd = "#6a573c"
+home_section_even = "#3A2F21"

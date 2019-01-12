@@ -64,10 +64,10 @@
 # About widget
 
 - id: interests
-  translation: 興味・関心
+  translation: Interests
 
 - id: education
-  translation: 学歴
+  translation: Education
 
 # Publications widget
 
